@@ -2,6 +2,15 @@
 # Insight Snapshot
 
 Precision workplace reflection analytics for modern executives. This system transforms raw professional observations into high-fidelity actionable intelligence.
+Login 
+![2E3B477D-B250-440A-875E-38C02CB4A0CE](https://github.com/user-attachments/assets/e9297db3-36f6-4d20-a498-a67730942cae)
+Command Center
+![653C28A8-965A-4C1A-A1D9-7FD7030DDF55](https://github.com/user-attachments/assets/f01fa28a-96bd-4001-9f80-a6250727e390)
+
+Generating Captions
+![653C28A8-965A-4C1A-A1D9-7FD7030DDF55](https://github.com/user-attachments/assets/7d6a8f78-178d-4d2a-94d2-49fe514dbc2e)
+
+
 
 ## Operational Workflow
 
